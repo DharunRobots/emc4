@@ -1,0 +1,1 @@
+created newtest2.txt file in emc4
